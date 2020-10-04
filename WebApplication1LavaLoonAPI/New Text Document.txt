@@ -1,0 +1,6 @@
+{"Email":"a@a.a","UserName":"aaa","FullName":"aaahatata","Password":"123456"}
+
+token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiJkZmFhMDI5MS1jZDdjLTQ3MjgtYWZjNC1lNzJlODM3MmNmOWIiLCJuYmYiOjE2MDE3Mjc4NzAsImV4cCI6MTYwMTcyODE3MCwiaWF0IjoxNjAxNzI3ODcwfQ.djd9v8W1z_2Lgf6sPL_MQ9_K9aO-QqER91AwPDXdTrw
+
+
+ng g g auth/auth
